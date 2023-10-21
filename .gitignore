@@ -1,0 +1,6 @@
+venv
+prac.py
+.env
+__pycache__
+gui.ui
+data.txt

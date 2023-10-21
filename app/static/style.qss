@@ -1,0 +1,44 @@
+QWidget {
+    background-color: #fff;
+}
+
+QMenuBar {
+    background-color: #61677A;
+    color: #fff;
+}
+
+QMenu {
+    background-color: #61677A;
+}
+
+QCheckBox {
+    color: #272829;
+}
+
+QLabel {
+    color: #272829;
+}
+
+QPushButton {
+    color: #fff;
+    background-color: #61677A;
+}
+
+QPushButton:hover {
+    color: #fff;
+    background-color: #51576A;
+}
+
+QLineEdit {
+    color: #272829;
+}
+
+QTableWidget {
+    background-color: #D8D9DA;
+    color: #272829;
+}
+
+QStatusBar {
+    color: #fff;
+    background-color: #61677A;
+}
